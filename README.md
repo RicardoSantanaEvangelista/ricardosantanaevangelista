@@ -11,7 +11,7 @@
   <img align="center" alt="ricardo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="ricardo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="ricardo-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" alt="ricardo-pic" height="200" style="border-radius:70px;" src="https://avatars.githubusercontent.com/u/83142531?v=4">
+  <img align="right" alt="ricardo-pic" height="200" style="border-radius:70px;" src="https://thumbs.dreamstime.com/b/programador-do-homem-novo-que-trabalha-no-computador-com-código-na-tela-conceito-de-programação-vetor-estudante-102846347.jpg">
 </div>
   
   ##
