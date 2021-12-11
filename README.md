@@ -1,4 +1,5 @@
 ## Olá ! Seja Bem-Vindo ao meu perfil !
+  <img align="center" alt="ricardo-pic" height="500" width="100%" style="border-radius:100px;" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
 <div align="center">
   <a href="https://github.com/RicardoSantanaEvangelista">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RicardoSantanaEvangelista&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
