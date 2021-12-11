@@ -1,5 +1,5 @@
 ## Olá ! Seja Bem-Vindo ao meu perfil !
-  <img align="center" alt="ricardo-pic" height="300" width="90%" src="https://i.pinimg.com/originals/87/fa/4c/87fa4c272e4711bb7373d96203202e20.gif">
+  <img align="center" alt="ricardo-pic" height="300" width="100%" src="https://i.pinimg.com/originals/87/fa/4c/87fa4c272e4711bb7373d96203202e20.gif">
 <div align="center">
   <a href="https://github.com/RicardoSantanaEvangelista">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RicardoSantanaEvangelista&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
