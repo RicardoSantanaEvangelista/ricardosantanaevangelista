@@ -1,4 +1,4 @@
-## Olá ! Seja Bem-Vindo ao meu perfil !
+## Hi, I'm Ricardo Santana, Welcome !
   <img align="center" alt="ricardo-pic" height="300" width="100%" src="https://i.pinimg.com/originals/87/fa/4c/87fa4c272e4711bb7373d96203202e20.gif">
 <div align="center">
   <a href="https://github.com/RicardoSantanaEvangelista">
